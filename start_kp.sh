@@ -1,1 +1,0 @@
-./nbminer -a kawpow -o stratum+tcp://kp.unmineable.com:3333 -u TRX:TMn2K9PegQ9xRVjB3tLE9XJq2PDMat1rag.user#paw5-v11w -log
