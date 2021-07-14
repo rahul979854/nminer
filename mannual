@@ -1,0 +1,3 @@
+
+#!/bin/sh
+./nbminer -a kawpow -o stratum+tcp://kp.unmineable.com:3333 -u TRX:TYUe8MUn4usSpfeUruvh5ddS5cM7SETor5.user -log
